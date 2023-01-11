@@ -2,13 +2,11 @@
 
 under construction
 
-<!-- * [Syllabus](syllabus-8-22-2022.docx) -->
-<!-- * [Overview Schedule](schedule-9-18-2022.xlsx)  <\!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -\-> -->
-<!-- * [Detailed schedule](resources) -->
-<!-- * [Textbook](https://canvas.instructure.com/courses/3186473) on -->
-<!--   Canvas, and [instructions](textbook-instructions.md) on how to -->
-<!--   access it, including the offline version. -->
-<!-- * [Homework assignments](hw) -->
+* [Syllabus](syllabus-1-10-2023.docx)
+* [Overview Schedule](schedule-1-10-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
+* [Detailed schedule](resources)
+* [Graded assignments](hw)
+* [Moodle](https://lms.dickinson.edu/course/view.php?id=50061)
 <!-- * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 10/3/2022</font> -->
 <!-- * [HowTo page](howto.md) -->
 <!-- * [Sample code](comp232-sample-code.zip) -->
@@ -28,4 +26,4 @@ under construction
 
 
 ----
-Last modified: Wed Jan 04 03:24:32 UTC 2023 by jmac.
+Last modified: Wed Jan 11 13:15:48 UTC 2023 by jmac.
