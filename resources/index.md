@@ -2,6 +2,14 @@
 
 
 
+## Class 3, Tuesday 1/31/2023
+
+* Vote on [future discussion topics](class03/future-discussion-topics.docx)
+* Discussion of professional ethics. Resources:
+  - Handout with overview of professional ethics: [professional-ethics-summary.pptx](class03/professional-ethics-summary.pptx)
+  - The latest [ACM code of ethics](https://www.acm.org/code-of-ethics)
+
+
 ## Class 2, Friday 1/27/2023
 
 * Discussion of ethical theories
@@ -14,4 +22,4 @@
 
 
 ----
-Last modified: Fri Jan 27 16:54:08 UTC 2023 by jmac.
+Last modified: Tue Jan 31 16:43:35 UTC 2023 by jmac.
