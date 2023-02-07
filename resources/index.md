@@ -2,6 +2,16 @@
 
 
 
+## Class 5, Tuesday 1/31/2023
+
+* Discussion of automation and globalization
+
+
+## Class 4, Friday 2/3/2023
+
+project work day
+
+
 ## Class 3, Tuesday 1/31/2023
 
 * Vote on [future discussion topics](class03/future-discussion-topics.docx)
@@ -22,4 +32,4 @@
 
 
 ----
-Last modified: Tue Jan 31 16:43:35 UTC 2023 by jmac.
+Last modified: Tue Feb 07 04:35:52 UTC 2023 by jmac.
