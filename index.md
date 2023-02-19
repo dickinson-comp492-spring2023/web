@@ -1,7 +1,7 @@
 # COMP492: Spring 2023 Senior Seminar in Computer Science
 
 * [Syllabus](syllabus-1-23-2023.docx)
-* [Overview Schedule](schedule-2-3-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 2/3/2023</font>
+* [Overview Schedule](schedule-2-19-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 2/19/2023</font>
 * [Detailed schedule](resources)
 * [Graded assignments](hw)
 * [Readings](readings.md)
@@ -14,4 +14,4 @@
 
 
 ----
-Last modified: Fri Feb 03 21:15:31 UTC 2023 by jmac.
+Last modified: Sun Feb 19 19:18:58 UTC 2023 by jmac.

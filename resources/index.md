@@ -1,5 +1,15 @@
 # Detailed schedule
 
+## Class 7, Tuesday 2/21/2023
+
+* Discussion of social media recommendation algorithms. See the
+  [Readings webpage](../readings.md) for required reading.
+
+
+## Class 6, Friday 2/17/2023
+
+project work day
+
 
 
 ## Class 5, Tuesday 1/31/2023
@@ -32,4 +42,4 @@ project work day
 
 
 ----
-Last modified: Tue Feb 07 04:35:52 UTC 2023 by jmac.
+Last modified: Sun Feb 19 18:27:17 UTC 2023 by jmac.
