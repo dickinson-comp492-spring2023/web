@@ -2,6 +2,15 @@
 
 ## Class 7, Tuesday 2/21/2023
 
+* Discussion of spam, politics, and censorship
+
+## Class 8, Friday 2/24/2023
+
+project work day
+
+
+## Class 7, Tuesday 2/21/2023
+
 * Discussion of social media recommendation algorithms. See the
   [Readings webpage](../readings.md) for required reading.
 
@@ -42,4 +51,4 @@ project work day
 
 
 ----
-Last modified: Sun Feb 19 18:27:17 UTC 2023 by jmac.
+Last modified: Mon Feb 27 15:07:40 UTC 2023 by jmac.
