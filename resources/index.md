@@ -1,8 +1,74 @@
 # Detailed schedule
 
-## Class 7, Tuesday 2/21/2023
+<!-- ## Class 20, Friday 4/7/2023 -->
+
+<!-- Poster peer review -->
+
+
+<!-- ## Class 19, Tuesday 4/4/2023 -->
+
+<!-- * Discussion of blockchain and cryptocurrency. See the [Readings -->
+<!--   webpage](../readings.md) for required reading and activities. **Note -->
+<!--   the instructions about no dicussion question -- link to an article -->
+<!--   instead.** -->
+
+
+<!-- ## Class 18, Friday 3/31/2023 -->
+
+<!-- Poster abstract peer review + project work day -->
+
+<!-- ## Class 17, Tuesday 3/28/2023 -->
+
+<!-- Project checkpoint presentations -->
+
+
+<!-- ## Class 16, Friday 3/24/2023 -->
+
+<!-- project work day -->
+
+
+
+## Class 15, Tuesday 3/21/2023
+
+* Special discussion: Reflections on a Dickinson education
+
+* Also, please complete the [mid-semester
+  survey](https://forms.office.com/r/5iuWEEBxZA).
+
+
+
+## Class 14, Friday 3/10/2023
+
+project work day
+
+
+
+## Class 13, Tuesday 2/28/2023
+
+* Alumni videoconference
+
+
+## Class 12, Friday 3/3/2023
+
+project work day
+
+
+
+## Class 11, Tuesday 2/28/2023
 
 * Discussion of spam, politics, and censorship
+
+
+## Class 10, Friday 2/24/2023
+
+project work day
+
+## Class 9, Tuesday 2/21/2023
+
+
+* Discussion of social media recommendation algorithms. See the
+  [Readings webpage](../readings.md) for required reading.
+
 
 ## Class 8, Friday 2/24/2023
 
@@ -11,9 +77,7 @@ project work day
 
 ## Class 7, Tuesday 2/21/2023
 
-* Discussion of social media recommendation algorithms. See the
-  [Readings webpage](../readings.md) for required reading.
-
+* Discussion of the digital divide
 
 ## Class 6, Friday 2/17/2023
 
@@ -51,4 +115,4 @@ project work day
 
 
 ----
-Last modified: Mon Feb 27 15:07:40 UTC 2023 by jmac.
+Last modified: Mon Mar 20 21:20:22 UTC 2023 by jmac.
