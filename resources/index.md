@@ -17,14 +17,20 @@
 
 <!-- Poster abstract peer review + project work day -->
 
-<!-- ## Class 17, Tuesday 3/28/2023 -->
+## Class 17, Tuesday 3/28/2023
 
-<!-- Project checkpoint presentations -->
+Project checkpoint presentations.
+
+Presentation order, courtesy of our friends at [random.org](https://www.random.org/lists/):
+1. Wagtail
+1. Transformers
+1. Genetic algorithm research
+1. Oppia
 
 
-<!-- ## Class 16, Friday 3/24/2023 -->
+## Class 16, Friday 3/24/2023
 
-<!-- project work day -->
+project work day
 
 
 
@@ -115,4 +121,4 @@ project work day
 
 
 ----
-Last modified: Mon Mar 20 21:20:22 UTC 2023 by jmac.
+Last modified: Tue Mar 28 15:20:50 UTC 2023 by jmac.
