@@ -5,17 +5,17 @@
 <!-- Poster peer review -->
 
 
-<!-- ## Class 19, Tuesday 4/4/2023 -->
+## Class 19, Tuesday 4/4/2023
 
-<!-- * Discussion of blockchain and cryptocurrency. See the [Readings -->
-<!--   webpage](../readings.md) for required reading and activities. **Note -->
-<!--   the instructions about no dicussion question -- link to an article -->
-<!--   instead.** -->
+* Discussion of blockchain and cryptocurrency. See the [Readings
+  webpage](../readings.md) for required reading and activities. **Note
+  the instructions about no dicussion question -- link to an article
+  instead.**
 
 
-<!-- ## Class 18, Friday 3/31/2023 -->
+## Class 18, Friday 3/31/2023
 
-<!-- Poster abstract peer review + project work day -->
+Poster abstract peer review + project work day
 
 ## Class 17, Tuesday 3/28/2023
 
@@ -121,4 +121,4 @@ project work day
 
 
 ----
-Last modified: Tue Mar 28 15:20:50 UTC 2023 by jmac.
+Last modified: Tue Apr 04 00:27:24 UTC 2023 by jmac.
