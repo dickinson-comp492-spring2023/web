@@ -1,8 +1,13 @@
 # Detailed schedule
 
-<!-- ## Class 20, Friday 4/7/2023 -->
+## Class 20, Friday 4/7/2023
 
-<!-- Poster peer review -->
+Poster peer review + project work day
+
+Posters for review:
+* [Oppia](class20/Oppia_CESPosterDraft.pdf)
+* [Genetic algorithm research](class20/ShakerCheckPosterDraft.pptx)
+* [Transformers](class20/transformers.pptx)
 
 
 ## Class 19, Tuesday 4/4/2023
@@ -121,4 +126,4 @@ project work day
 
 
 ----
-Last modified: Tue Apr 04 00:27:24 UTC 2023 by jmac.
+Last modified: Fri Apr 07 03:21:01 UTC 2023 by jmac.
