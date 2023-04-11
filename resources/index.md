@@ -1,5 +1,12 @@
 # Detailed schedule
 
+## Class 21, Tuesday 4/11/2023
+
+* Informal discussion: portrayal of computation in movies, TV, and literature
+  - No preparation required.
+  - If you get a chance, try to think of a few examples for discussion.
+* Remaining time for project work
+
 ## Class 20, Friday 4/7/2023
 
 Poster peer review + project work day
@@ -126,4 +133,4 @@ project work day
 
 
 ----
-Last modified: Fri Apr 07 03:21:01 UTC 2023 by jmac.
+Last modified: Mon Apr 10 23:57:29 UTC 2023 by jmac.
