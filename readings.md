@@ -22,7 +22,7 @@ Required reading:
   question is required this week. Instead, just post a link to your
   article.
 
-## Discussion 8: DuoLingo and human compting
+## Discussion 8: DuoLingo and human computing
 
 Required reading/watching:
 * [2022 Dickinson College Priestley award
