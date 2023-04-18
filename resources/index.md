@@ -1,5 +1,18 @@
 # Detailed schedule
 
+## Class 23, Tuesday 4/18/2023
+ 
+* Informal discussion: ChatGPT and generative AI
+  - optional reading: [Issue
+    183](https://www.deeplearning.ai/the-batch/issue-183/) of The
+    Batch, by Andrew Ng and DeepLearning.AI, February 8, 2023.
+* Remaining time for project work
+
+ 
+## Class 22, Friday 4/14/2023
+
+No class.
+
 ## Class 21, Tuesday 4/11/2023
 
 * Informal discussion: portrayal of computation in movies, TV, and literature
@@ -133,4 +146,4 @@ project work day
 
 
 ----
-Last modified: Mon Apr 10 23:57:29 UTC 2023 by jmac.
+Last modified: Tue Apr 18 14:55:11 UTC 2023 by jmac.
