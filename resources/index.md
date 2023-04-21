@@ -1,5 +1,26 @@
 # Detailed schedule
 
+## Class 24, Friday 4/21/2023
+ 
+* Informal discussion: *Reflections on trusting trust*
+  - optional reading: 
+    *  [Reflections on trusting
+    trust](https://dl.acm.org/doi/10.1145/358198.358210), Turing award
+    lecture by Ken Thompson, published in Communications of the ACM,
+    Volume 27, Issue 8, Aug 1984, pp 761–763,
+    [https://doi.org/10.1145/358198.358210](https://doi.org/10.1145/358198.358210)
+  - optional tools for playing with Ken Thompson's idea:
+    [self-rep-tools.zip](class24/self-rep-tools.zip)
+  - some possible discussion questions:
+    1. Does this mean we cannot actually trust the implementation of
+       any computer system, whether or not it is open source?
+    2. What are the practical implications of this?
+	3. Do you think Thompson-style Easter eggs are hidden in
+       e.g. Windows, MacOS, Linux?
+    4. What would it take for you to actually trust a computer system?
+
+* Remaining time for project work
+
 ## Class 23, Tuesday 4/18/2023
  
 * Informal discussion: ChatGPT and generative AI
@@ -146,4 +167,4 @@ project work day
 
 
 ----
-Last modified: Tue Apr 18 14:55:11 UTC 2023 by jmac.
+Last modified: Fri Apr 21 01:55:40 UTC 2023 by jmac.
