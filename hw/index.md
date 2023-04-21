@@ -1,5 +1,42 @@
 # Assignments for COMP492
 
+
+
+-----
+
+<font color="red">**[Start of content added 4/20/2023]**</font>
+
+
+## New optional fun twist to senior seminar project
+
+One important goal of working on software or research projects is to
+build something fun and enjoy doing it. With that in mind, you are
+invited to spend the last few weeks of the semester on any creative
+project whatsoever that is relevant to your chosen open source or
+research project. This is called the *fun twist* for your project. The
+fun twist is optional. You are also welcome to continue on standard
+contributions such as pull requests for Issues on your project's Issue
+Tracker. Choosing to work on a fun twist will not change your
+grade. You are still expected to devote the same amount of effort to
+your project, whether continuing to work on Issues, or spending time
+on a creative fun twist.
+
+### What could my fun twist be?
+
+You can work on this as an individual, in a small sub-team, or as an
+entire team. You could build a small webpage or demo that is based on
+your project, or maybe some new content related to your project. It
+could be a crazy new feature that wasn't requested by the
+maintainers. You could create something artistic that will look good
+in your final presentation. Feel free to pitch any and all ideas to
+the instructor. Please continue to log your efforts in the Slack live
+log.
+
+<font color="red">**[End of content added 4/20/2023]**</font>
+
+------
+
+
 ## Overview of the senior seminar project
 
 The most significant component of COMP492 is the continuation of the
@@ -46,6 +83,3 @@ what you are planning to do in the next 30 minutes.
 * [Assignment RBP: Reflective blog post](RBP.docx)
 * [Assignment FP: Final Presentation](FP.docx)
 
-
-----
-Last modified: Thu Jan 12 19:31:31 UTC 2023 by jmac.

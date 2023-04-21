@@ -1,7 +1,9 @@
 # Detailed schedule
 
 ## Class 24, Friday 4/21/2023
- 
+
+* Important announcement: you can add an optional fun twist to your senior seminar project. See the [Assignments](../hw/index.md) page for details.
+
 * Informal discussion: *Reflections on trusting trust*
   - optional reading: 
     *  [Reflections on trusting
@@ -167,4 +169,4 @@ project work day
 
 
 ----
-Last modified: Fri Apr 21 01:55:40 UTC 2023 by jmac.
+Last modified: Fri Apr 21 02:25:02 UTC 2023 by jmac.
