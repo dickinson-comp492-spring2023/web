@@ -1,5 +1,13 @@
 # Detailed schedule
 
+## Class 25, Tuesday 4/25/2023
+
+* Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course.
+
+* Discussion of human computing. See the [Readings
+  webpage](../readings.md) for required reading/viewing.
+
+
 ## Class 24, Friday 4/21/2023
 
 * Important announcement: you can add an optional fun twist to your senior seminar project. See the [Assignments](../hw/index.md) page for details.
@@ -169,4 +177,4 @@ project work day
 
 
 ----
-Last modified: Fri Apr 21 02:25:02 UTC 2023 by jmac.
+Last modified: Mon Apr 24 13:49:11 UTC 2023 by jmac.
