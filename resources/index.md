@@ -1,5 +1,19 @@
 # Detailed schedule
 
+## Class 27, Tuesday 5/2/2023
+
+Afternoon tea party at the instructor's house (attendance
+optional). Please see invitation sent by email for details. Feel free
+to arrive any time after 1:30 PM -- you are not required to be on time
+for this class!
+
+
+## Class 26, Friday 4/28/2023
+
+No class: Attendance at the Civic Engagement Symposium earlier in the
+week takes the place of this class meeting.
+
+
 ## Class 25, Tuesday 4/25/2023
 
 * Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course.
@@ -42,7 +56,7 @@
  
 ## Class 22, Friday 4/14/2023
 
-No class.
+No class -- instructor away at a conference.
 
 ## Class 21, Tuesday 4/11/2023
 
@@ -177,4 +191,4 @@ project work day
 
 
 ----
-Last modified: Mon Apr 24 13:49:11 UTC 2023 by jmac.
+Last modified: Mon May 01 20:09:43 UTC 2023 by jmac.
