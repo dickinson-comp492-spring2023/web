@@ -1,5 +1,13 @@
 # Detailed schedule
 
+## Class 28, Tuesday 5/2/2023
+
+* Informal discussion: *Big ideas in computing*
+  - optional reading: The list of recent [Turing award
+    winners](https://en.wikipedia.org/wiki/Turing_Award) on
+    Wikipedia. In class we will focus on the era 2006-2022.
+
+
 ## Class 27, Tuesday 5/2/2023
 
 Afternoon tea party at the instructor's house (attendance
@@ -191,4 +199,4 @@ project work day
 
 
 ----
-Last modified: Mon May 01 20:09:43 UTC 2023 by jmac.
+Last modified: Fri May 05 00:03:17 UTC 2023 by jmac.
